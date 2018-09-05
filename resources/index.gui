@@ -1,0 +1,10 @@
+<svg class="background">
+  <use id="sv" href="#scrollview">
+    <use href="#scrollview-item" height="1536">
+      <textarea id="test1">
+      </textarea>
+      <textarea id="test2">
+      </textarea>
+    </use>
+  </use> 
+</svg>

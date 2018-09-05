@@ -1,0 +1,27 @@
+{
+  "name": "gfh",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@fitbit/sdk": "~1.0.2",
+    "@fitbit/sdk-cli": "^1.0.0"
+  },
+  "fitbit": {
+    "appUUID": "0d74c9a9-e168-41e3-b9c3-b0208f63ac51",
+    "appType": "app",
+    "appDisplayName": "Gfh",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffffff",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {}
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  }
+}
