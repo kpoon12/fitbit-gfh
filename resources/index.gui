@@ -1,9 +1,14 @@
 <svg class="background">
   <use id="sv" href="#scrollview">
-    <use href="#scrollview-item" height="1536">
-      <textarea id="test1">
+    <use href="#scrollview-item" height="4000">
+      <text id="menu" y="0">.....................</text>
+      <textarea id="test1" class="texta" y="10">
       </textarea>
-      <textarea id="test2">
+      <textarea id="test2" class="texta">
+      </textarea>
+      <textarea id="test3" class="texta">
+      </textarea>
+      <textarea id="test4" class="texta">
       </textarea>
     </use>
   </use> 

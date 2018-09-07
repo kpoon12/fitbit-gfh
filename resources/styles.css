@@ -2,24 +2,15 @@
   viewport-fill: fb-cyan;
 }
 
-#test {
-fill: red;
-font-size: 32;
-font-family: System-Regular;
-text-anchor: start;
-width: 100%-20;
-height: 50;
-x: 10;
-y: $
+.texta {
+  fill: red;
+  font-size: 38;
+  font-family: System-Regular;
+  text-anchor: start;
+  width: 100%-20;
+  text-length: 500;
+  height: 600;
+  x: 10;
+  y: $
 }
 
-#test1 {
-fill: red;
-font-size: 30;
-font-family: System-Regular;
-text-anchor: start;
-width: 100%-20;
-height: 2048;
-x: 10;
-y: 10
-}
