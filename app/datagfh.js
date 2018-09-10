@@ -78,7 +78,7 @@ const SongPage =  [
                 },
                 {
                     "Book": "God's Beautiful Heart",
-                    "Title": " The Love that Stuns My Heart ",
+                    "Title": "The Love that Stuns My Heart ",
                     "Context": "\nLord, Your great love is shown through the heavens; \nYour creation speaks of Your affection. \nLord, Your glory, love, and beauty, Interweaved, in harmony. \nFrom heav’n to earth, You gladly came As a Man, \nclose to me forever You seek me, \nsave me from all miseries; \nCarry me in Your arms, set me in Your heart Your love: \nmost fervent of all, most infinite of all, Your journey of love, full of beauty and glory. \nThrough Your pierced side and Your scars, Your sacrifice on the cross, You’ve revealed Your unreserved love. \nFor this union, You shed Your precious blood, Stunning my heart; \nI’m conquered by Your love. Lord, Your matchless, victorious love Wins my heart; \nI’m drawn by You. The song of songs is Your love song, Singing of Your heart’s deepest affection. \nMy Lord, You ransomed me with Your own blood, You betrothed me to be Your own forever. \nI am bounded in Your love, created for Your love. \nYour love longing for me, spans all eternity. \nThrough Your marvelous design, You declare this love story, Proving Your love unceasingly. \nO Lord, may I behold, Your heart is always for me, Your creation’s love story, \nSteps of Your love journey, Know the depth of Your cross, \nhow You still desire me most, \nAnd I’m Your heart’s eternal dream. \nO Lord, in Your deepest love embrace, \nI find my rest, Enjoy being Your sweet darling! \n\n\n    ",
                     "Page": "12",
                     "Mp3": ""

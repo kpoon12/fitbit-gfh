@@ -1,3 +1,4 @@
+/* 
 .background {
   viewport-fill: fb-cyan;
 }
@@ -12,5 +13,21 @@
   height: 600;
   x: 10;
   y: $
+} */
+.tile-list-item {
+  height: 200;
 }
 
+.tile-list-item textarea {
+  font-family: System-Regular;
+  fill: "white";
+  text-length: 200;
+}
+
+.tile-divider-bottom {
+  x: 0;
+  y: 100%-2;
+  width: 100%;
+  height: 2;
+  fill: #A0A0A0;
+}
